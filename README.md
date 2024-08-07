@@ -37,7 +37,7 @@
 </details>
 
 
-
+<hr>
 <div aling="center">
 :seedling: stack </br>
 <hr>
