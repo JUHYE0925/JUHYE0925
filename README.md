@@ -26,7 +26,7 @@
 
 <details>
 <summary>
-  📱 CONTACT
+  📱 SNS
   
 </summary>
   <br>
