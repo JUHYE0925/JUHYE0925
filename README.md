@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Juhye World 👋
 
 <!--
 **JUHYE0925/JUHYE0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
