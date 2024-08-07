@@ -1,4 +1,4 @@
-## Hello Juhye World 🌻(●'◡'●)🌻
+## Hello Juhye's GITHUB World 🌻(●'◡'●)🌻
 
 <details>
 <summary>
