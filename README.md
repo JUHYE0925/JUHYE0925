@@ -8,7 +8,19 @@
   글로 그림을 그리고 세상을 만드는 백엔드 개발자 김주혜입니다. 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="17" height="17" />
 </p>
+<br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="18" height="18" />
+  맡은 업무는 무슨 일이 있어도 마무리하려는 의지와 책임감을 가지고 있습니다.
+  <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="18" height="18" />
+  다양한 사람들과 협업을 통해 무언가를 만들어가는 것에 보람과 활기를 얻고있습니다.
+  <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="18" height="18" />
+  현실에 안주하지 않고 끊임없이 배우고 성장하는 개발자가 되겠습니다.
+  <br>
+</p>
 
 <br>
 <br>
